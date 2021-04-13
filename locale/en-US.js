@@ -5,5 +5,6 @@ export const i18n = {
     lngBTN: {
         btnES: "Spanish",
         btnEN: "English"
-    }
+    },
+    lngErr: "Can't find {lng} language module."
 };
